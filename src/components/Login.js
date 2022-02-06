@@ -1,8 +1,9 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
-import Image from '../asset/PASSPORT.jpg'
-import Navigation from "./Navigation";
+// import Navigation from "./Navigation";
+import Navigation from '../components/reusable/Navigation'
+
 
 export default function Login() {
     return (

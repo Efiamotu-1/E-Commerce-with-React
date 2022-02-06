@@ -1,10 +1,14 @@
 import React from 'react'
-import Navigation from './Navigation'
+// import Navigation from './Navigation'
+import Navigation from '../components/reusable/Navigation'
+
 
 function ChangePassword() {
     return (
         <>
         <Navigation />
+
+        
             <div class="text-center">
         <h4 class="display-4 mt-5 p-5 ">Change Password</h4>
 
